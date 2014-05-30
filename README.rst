@@ -2,7 +2,7 @@ BBEdit LassoScript Codeless Language Module
 ###########################################
 
 Read the article `BBEdit LassoScript Codeless Language Module
-<https://github.com/stevepiercy/BBEdit_LassoScript_CLM>`_.
+<https://www.stevepiercy.com/bbedit-lassoscript-codeless-language-module.html>`_.
 
 Introduction
 ============
