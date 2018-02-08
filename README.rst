@@ -132,6 +132,7 @@ Installation Instructions
    possible conflicts.
 #. Move the file ``BBEditLDML/Language Modules/LassoScript.plist`` to
    ``~/Library/Application Support/BBEdit/Language Modules``.
+#. Compile the text versions of the `.applescript` files to executable binary AppleScript `.scpt` files for each file in the directory ``BBEditLDML/Scripts/06)Set Language to/``.  This is left as an exercise for the user, as there are many ways to do so.  The simplest is to just copy/paste the source into Script Editor and save it.
 #. Move the folder ``BBEditLDML/Scripts/06)Set Language to/`` and its contents
    to ``~/Library/Application Support/BBEdit/Scripts/``.
 #. Restart BBEdit. This will load the new ``.plist`` and AppleScripts.  Next
